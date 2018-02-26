@@ -1,5 +1,5 @@
 
-foo = my foot version 123456
+foo = foo version 2
 democonfigclient.message=hello spring io
 
 # routes to serviceId
